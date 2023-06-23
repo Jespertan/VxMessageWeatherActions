@@ -9,12 +9,12 @@ public class WeatherConfig {
      * 天气相关的总开关
      * true则为开启，false则为关闭
      */
-    public static boolean OPEN = false;
+    public static boolean OPEN = true;
 
     /**
      * 天气资源的key
      */
-    public static final String weatherSourceKey = "your key";
+    public static final String weatherSourceKey = "dc7d30dc8bec497d984f3747ac7ca3d1";
 
     /**
      * 天气资源类型
